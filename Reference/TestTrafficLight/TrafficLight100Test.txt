@@ -1,5 +1,5 @@
 [TEST   ] [ CONTROL/AUDIO   ] Traffic light color None (Re=0.0% Gr=0.0% Ye=0.0% No=100.0% )                  
-[TEST   ] [ CONTROL/AUDIO   ] Traffic light color None (Re=0.7% Gr=0.7% Ye=0.0% No=98.6% )                   
+[TEST   ] [ CONTROL/AUDIO   ] Traffic light color None (Re=0.0% Gr=0.0% Ye=0.0% No=100.0% )                  
 [TEST   ] [ CONTROL/AUDIO   ] Traffic light color None (Re=8.1% Gr=4.6% Ye=0.0% No=87.2% )                   
 [TEST   ] [ CONTROL/AUDIO   ] Traffic light color None (Re=9.3% Gr=2.1% Ye=0.0% No=88.6% )                   
 [TEST   ] [ CONTROL/AUDIO   ] Traffic light color None (Re=0.5% Gr=0.9% Ye=0.0% No=98.6% )                   
